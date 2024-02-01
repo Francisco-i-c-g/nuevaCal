@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nuevaCal/static/css/main.2f70f9ba.css",
+    "main.js": "/nuevaCal/static/js/main.330d3f64.js",
+    "index.html": "/nuevaCal/index.html",
+    "main.2f70f9ba.css.map": "/nuevaCal/static/css/main.2f70f9ba.css.map",
+    "main.330d3f64.js.map": "/nuevaCal/static/js/main.330d3f64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f70f9ba.css",
+    "static/js/main.330d3f64.js"
+  ]
+}
